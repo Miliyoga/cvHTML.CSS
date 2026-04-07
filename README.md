@@ -6,13 +6,13 @@
 
 ## Sobre este projeto
 
-Este é o meu currículo feito do zero com HTML e CSS puro — sem frameworks, sem templates prontos, só código e vontade de aprender!
-Fiz este projeto como parte da minha transição para a área de desenvolvimento de software. É simples, mas é **meu** — e representa tudo que venho construindo até aqui. 
+Este é o meu currículo feito do zero com HTML e CSS puro  sem frameworks, sem templates prontos, só código e vontade de aprender!
+Fiz este projeto como parte da minha transição para a área de desenvolvimento de software. É simples, mas é meu  e representa tudo que venho construindo até aqui. 
 
 ## Tecnologias usadas
 
-- **HTML5** — estrutura e semântica
-- **CSS3** — estilização, layout e responsividade
+- TML5 estrutura e semântica
+- CSS3 ,estilização, layout e responsividade
 
 ## Estrutura do projeto
 
