@@ -1,4 +1,4 @@
-# Currículo — Milianny Perdomo Cova
+# Currículo  Milianny Perdomo Cova
 
 > *"Todo grande projeto começa com um primeiro commit."*
 
@@ -38,7 +38,7 @@ git clone https://github.com/Miliyoga/curriculumHTML.git
 
 Oi, eu sou a **Milianny**! Venezuelana morando em Cascavel/PR, em transição para desenvolvimento de software e apaixonada por tecnologia.
 
-Venho estudando Python, JavaScript, Golang, C++, Docker e SQL — e esse projeto é uma prova viva de que estou na prática!
+Venho estudando Python, HTML - CSS - Flutter- JavaScript, Golang, C++, Docker, e esse projeto é uma prova viva de que estou na prática!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mili-cova-/)
 - [GitHub](https://github.com/Miliyoga)
