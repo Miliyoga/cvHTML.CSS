@@ -50,6 +50,6 @@ Venho estudando Python, HTML - CSS - Flutter- JavaScript, Golang, C++, Docker, e
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
 
-> Este projeto vai crescer junto comigo — cada nova habilidade que eu aprender vai aparecer aqui! 
+> Este projeto vai crescer junto comigo e cada nova habilidade que eu aprender vai aparecer aqui! 
 
 *Feito com amor e muito café por Milianny Perdomo Cova*
